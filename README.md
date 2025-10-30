@@ -15,22 +15,22 @@ This project demonstrates how to use SQL to generate insights from raw data. You
 - Segmentation by category / user / region  
 - Reporting-style aggregations  
 
-It is ideal for learning SQL analytics patterns or using as a starter template for your own data-analysis work.
+
 
 ---
 
 ## 📁 Repository Structure
 .
-.
 ├── datasets/
-│   └── csv-files/         ← Raw source CSVs 
-├── scripts/               ← SQL scripts organized by type / theme
+│   └── csv-files/
+├── scripts/
 │   ├── 01_explore.sql
 │   ├── 02_metrics.sql
 │   ├── 03_time_series.sql
 │   ├── 04_segmentations.sql
 │   └── …
-└── README.md              ← This file
+└── README.md
+
 
 
 
