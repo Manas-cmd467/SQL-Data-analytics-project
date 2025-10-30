@@ -20,16 +20,18 @@ This project demonstrates how to use SQL to generate insights from raw data. You
 ---
 
 ## 📁 Repository Structure
+
 .
 ├── datasets/
-│   └── csv-files/
-├── scripts/
-│   ├── 01_explore.sql
-│   ├── 02_metrics.sql
-│   ├── 03_time_series.sql
-│   ├── 04_segmentations.sql
-│   └── …
-└── README.md
+│ └── csv-files/ ← Raw source CSVs (if applicable)
+├── scripts/ ← SQL scripts organized by type / theme
+│ ├── 01_explore.sql
+│ ├── 02_metrics.sql
+│ ├── 03_time_series.sql
+│ ├── 04_segmentations.sql
+│ └── …
+└── README.md ← This file
+
 
 
 
