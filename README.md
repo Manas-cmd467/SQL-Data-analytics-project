@@ -24,7 +24,7 @@ This project demonstrates how to use SQL to generate insights from raw data. You
 ```
 .
 ├── datasets/
-│ └── csv-files/ ← Raw source CSVs (if applicable)
+│ └── csv-files/ ← Raw source CSVs 
 ├── scripts/ ← SQL scripts organized by type / theme
 │ ├── 01_explore.sql
 │ ├── 02_metrics.sql
@@ -33,6 +33,7 @@ This project demonstrates how to use SQL to generate insights from raw data. You
 │ └── …
 └── README.md ← This file
 ```
+
 
 
 
